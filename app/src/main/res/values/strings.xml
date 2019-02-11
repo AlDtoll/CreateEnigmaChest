@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CreateEnigmaChest</string>
+    <string name="describe">Описание</string>
+    <string name="word">Слово</string>
+    <string name="add_word">Добавить загадку</string>
+    <string name="make_a_guess">Загадать</string>
+    <string name="time">Время</string>
+</resources>
